@@ -10,4 +10,8 @@ This project is part of an interview process at Team 11 degrees
 
 Clone the repo
 
-Run python main.py
+create a virtual environment
+
+install requirements.txt
+
+Run by python main.py
