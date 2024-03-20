@@ -14,4 +14,8 @@ create a virtual environment
 
 install requirements.txt
 
+copy .env.example add the requirements
+
+you can use mail trap for testing sending emails
+
 Run by python main.py
