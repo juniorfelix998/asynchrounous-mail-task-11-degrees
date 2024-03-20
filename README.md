@@ -1,4 +1,4 @@
-# Extract Email Frmm PDF and send mail 
+# Extract Email From PDF and send mail 
 
 ## Purpose of the app
 
